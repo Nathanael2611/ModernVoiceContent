@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nmvc",
+  "name": "Nathanael2611's ModernVoiceContent",
+  "description": "A ModularVoiceChat addon that add a set of useful voice communication content.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nathanael2611"],
+  "credits": "Nathanael2611",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

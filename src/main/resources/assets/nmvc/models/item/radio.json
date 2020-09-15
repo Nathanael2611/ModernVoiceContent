@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nmvc:items/radio_off"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "running": 1
+      },
+      "model": "nmvc:item/radio_on"
+    }
+  ]
+}
